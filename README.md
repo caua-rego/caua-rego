@@ -14,7 +14,7 @@
 ---
 
 ##  Tecnologias e Ferramentas
-- **Linguagens:** Python | SQL | HTML | C (aprendendo)  
+- **Linguagens:** Python | SQL | HTML | C# (aprendendo)  
 - **Ferramentas:** Git & GitHub | VS Code | Postman | Figma
 
 ---
