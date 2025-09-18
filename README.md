@@ -12,7 +12,7 @@ Student of Systems Analysis and Development at CESAR School, one of the main inn
 - **Frameworks & Libraries:** Flask, .NET
 - **Databases:** SQL
 - **Methodologies:** Agile, Scrum, Kanban
-- **Tools:** Git, GitHub, VS Code
+- **Tools:** Git, GitHub, VS Code, Postman, Figma
 
 ---
 
@@ -21,6 +21,7 @@ Student of Systems Analysis and Development at CESAR School, one of the main inn
 - **System Bank Education:** Educational project available on GitHub, created to simplify the understanding of CRUDs and assist beginners in programming.
 - **C# and .NET Applications:** Personal projects focused on practical learning, applying clean architecture concepts.
 - **Python and Algorithm Explorations:** Academic focus on programming logic, data analysis and automation.
+- **[Banco Áurea](https://github.com/caua-rego/bank-aurea):** A simple digital banking project built with Flask and SQLite that performs CRUD operations for accounts.
 
 ---
 
@@ -53,6 +54,13 @@ Student of Systems Analysis and Development at CESAR School, one of the main inn
 
 - **English:** Full Professional
 - **Portuguese:** Native
+
+---
+
+### 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=caua-rego&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caua-rego&layout=compact&theme=tokyonight)
 
 ---
 
