@@ -18,10 +18,14 @@ Student of Systems Analysis and Development at CESAR School, one of the main inn
 
 ### 💻 Projects
 
-- **System Bank Education:** Educational project available on GitHub, created to simplify the understanding of CRUDs and assist beginners in programming.
+Here's an overview of my key projects, showcasing my skills and learning journey:
+
+- **[System Bank Education](https://github.com/caua-rego/system-bank-education):** An educational project (Python) available on GitHub, created to simplify the understanding of CRUDs and assist beginners in programming. It's a simple simulation of a banking system.
 - **C# and .NET Applications:** Personal projects focused on practical learning, applying clean architecture concepts.
 - **Python and Algorithm Explorations:** Academic focus on programming logic, data analysis and automation.
-- **[Banco Áurea](https://github.com/caua-rego/bank-aurea):** A simple digital banking project built with Flask and SQLite that performs CRUD operations for accounts.
+- **[Banco Áurea – Online Banking System](https://github.com/caua-rego/bank-aurea):** A simple digital banking project built with Flask and SQLite that performs CRUD (Create, Read, Update, Delete) operations for accounts. (Primary language: CSS)
+- **[MeuCurriculo](https://github.com/caua-rego/MeuCurriculo):** A project dedicated to my resume, demonstrating HTML skills.
+- **[minimalist-caua-rego-website](https://github.com/caua-rego/minimalist-caua-rego-website):** A personal portfolio website, primarily built with CSS.
 
 ---
 
@@ -66,6 +70,6 @@ Student of Systems Analysis and Development at CESAR School, one of the main inn
 
 ### 📫 Contact
 
-- **Email:** cauaregoo12@gmail.com
+- **Email:** cauarego6@gmail.com
 - **LinkedIn:** [cauã-rego-developer](https://www.linkedin.com/in/cau%C3%A3-rego-developer)
 - **GitHub:** [caua-rego](https://github.com/caua-rego)
