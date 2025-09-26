@@ -8,7 +8,7 @@ Student of Systems Analysis and Development at CESAR School, one of the main inn
 
 ### 🚀 Technologies & Tools
 
-- **Languages:** Python, SQL, HTML, CSS, C# (learning), SWIFT (learning)
+- **Languages:** Python, SQL, HTML, CSS, C#, SWIFT
 - **Frameworks & Libraries:** Flask, .NET
 - **Databases:** SQL
 - **Methodologies:** Agile, Scrum, Kanban
