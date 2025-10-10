@@ -53,4 +53,4 @@
 
 - GitHub: [github.com/caua-rego](https://github.com/caua-rego)  
 - LinkedIn: [linkedin.com/in/caua-rego](https://www.linkedin.com/in/caua-rego/)  
-- Aberto a estágios e oportunidades para **aprender, inovar e colaborar**.
+
