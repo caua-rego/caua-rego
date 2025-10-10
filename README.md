@@ -1,75 +1,56 @@
-# Cauã Rêgo
+# 👋 Olá, eu sou Cauã Rego
 
-*Junior Developer | SWIFT, C# & .NET | Full Stack | SQL, HTML, PYTHON, CSS | Student*
-
-Student of Systems Analysis and Development at CESAR School, one of the main innovation hubs in Brazil, where technology, design and social impact come together to transform realities.
-
----
-
-### 🚀 Technologies & Tools
-
-- **Languages:** Python, SQL, HTML, CSS, C#, SWIFT
-- **Frameworks & Libraries:** Flask, .NET
-- **Databases:** SQL
-- **Methodologies:** Agile, Scrum, Kanban
-- **Tools:** Git, GitHub, VS Code, Postman, Figma
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na CESAR School  
+💻 Desenvolvedor Full Stack | Python, JavaScript, React, Ruby, C#/.NET | UI/UX | IA | Banco de Dados
 
 ---
 
-### 💻 Projects
+## 🚀 Skills
 
-Here's an overview of my key projects, showcasing my skills and learning journey:
-
-- **[System Bank Education](https://github.com/caua-rego/system-bank-education):** An educational project (Python) available on GitHub, created to simplify the understanding of CRUDs and assist beginners in programming. It's a simple simulation of a banking system.
-- **C# and .NET Applications:** Personal projects focused on practical learning, applying clean architecture concepts.
-- **Python and Algorithm Explorations:** Academic focus on programming logic, data analysis and automation.
-- **[Banco Áurea – Online Banking System](https://github.com/caua-rego/bank-aurea):** A simple digital banking project built with Flask and SQLite that performs CRUD (Create, Read, Update, Delete) operations for accounts. (Primary language: CSS)
-- **[MeuCurriculo](https://github.com/caua-rego/MeuCurriculo):** A project dedicated to my resume, demonstrating HTML skills.
-- **[minimalist-caua-rego-website](https://github.com/caua-rego/minimalist-caua-rego-website):** A personal portfolio website, primarily built with CSS.
-
----
-
-### 💼 Experience
-
-- **Autonomous Developer** (July 2025 - Present)
-- **Front-end Developer - Revista Do Villa** (June 2021 - August 2021)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![UI/UX](https://img.shields.io/badge/UI%2FUX-FF61C3?style=for-the-badge)
+![IA](https://img.shields.io/badge/IA-00C9FF?style=for-the-badge)
 
 ---
 
-### 🎓 Education
+## 📂 Projetos em Destaque
 
-- **CESAR School** - Systems Analysis and Development (2025 - 2028)
-- **Full Sail University** - Creative Careers (2022 - 2023)
-- **Colegio Divino Mestre** (2016 - 2024)
+### [Focal App](https://github.com/caua-rego/focal-app)  
+💡 App focado em **experiência do usuário** e lógica de negócios.  
 
----
+### [Bank Áurea](https://github.com/caua-rego/bank-aurea)  
+💡 Projeto bancário com ênfase em **segurança, transações e consistência de dados**.  
 
-### 📜 Certifications
+### [System Bank Education](https://github.com/caua-rego/system-bank-education)  
+💡 Repositório educativo para aprender **CRUDs e lógica de programação**.
 
-- Maratona Criativa
-- Minicurso de Python: Introdução ao Flask
-- Fundamentos do Swift
-- Clean Code - Python
-- Carreiras Criativas
+### Outros Projetos  
+- Sites e apps menores com Python, JS, React e Ruby (ver [meu GitHub](https://github.com/caua-rego))  
 
 ---
 
-### 🌐 Languages
+## 📊 Estatísticas
 
-- **English:** Full Professional
-- **Portuguese:** Native
-
----
-
-### 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=caua-rego&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caua-rego&layout=compact&theme=tokyonight)
+![Cauã Rego GitHub Stats](https://github-readme-stats.vercel.app/api?username=caua-rego&show_icons=true&theme=radical&count_private=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caua-rego&layout=compact&theme=radical)
 
 ---
 
-### 📫 Contact
+## 🎬 Mais Dinâmico
 
-- **Email:** cauarego6@gmail.com
-- **LinkedIn:** [cauã-rego-developer](https://www.linkedin.com/in/cau%C3%A3-rego-developer)
-- **GitHub:** [caua-rego](https://github.com/caua-rego)
+![Coding GIF](https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif)  
+✨ Sempre explorando novas tecnologias e práticas modernas de desenvolvimento.
+
+---
+
+## 📫 Contato
+
+- GitHub: [github.com/caua-rego](https://github.com/caua-rego)  
+- LinkedIn: [linkedin.com/in/caua-rego](https://www.linkedin.com/in/caua-rego/)  
+- Aberto a estágios e oportunidades para **aprender, inovar e colaborar**.
