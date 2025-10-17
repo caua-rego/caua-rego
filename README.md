@@ -81,8 +81,6 @@ Sou Cauã Rego — desenvolvedor focado em transformar requisitos complexos em i
 ---
 
 ## Tecnologias (sugestão)
-Aqui estão tecnologias comuns nos meus projetos. Se quiser, eu detecto automaticamente as linguagens por repositório e substituo esta lista.
-
 <p align="center">
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-111827?style=flat-square&logo=typescript&logoColor=3178c6"/>
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-111827?style=flat-square&logo=javascript&logoColor=f7df1e"/>
@@ -105,11 +103,8 @@ Aqui estão tecnologias comuns nos meus projetos. Se quiser, eu detecto automati
           App focado em experiência do usuário e lógica de negócios.
         </p>
         <p style="margin:0 0 10px 0;color:#cbd5e1">
-          Tech (sugestão): <strong>TypeScript, React, Node.js</strong><br/>
+          Tech (detectado): <strong>TypeScript</strong><br/>
           Link: <a href="https://github.com/caua-rego/focal-app" style="color:#58a6ff">github.com/caua-rego/focal-app</a>
-        </p>
-        <p style="margin:6px 0 0 0">
-          <a href="https://github.com/caua-rego/focal-app"><img src="https://img.shields.io/badge/Ver%20no%20GitHub-111827?style=for-the-badge&logo=github" alt="Ver no GitHub"></a>
         </p>
       </td>
 
@@ -119,11 +114,8 @@ Aqui estão tecnologias comuns nos meus projetos. Se quiser, eu detecto automati
           Projeto bancário com ênfase em segurança, transações e consistência de dados.
         </p>
         <p style="margin:0 0 10px 0;color:#cbd5e1">
-          Tech (sugestão): <strong>Node.js, PostgreSQL, Docker</strong><br/>
+          Tech (detectado): <strong>CSS, Python, HTML</strong><br/>
           Link: <a href="https://github.com/caua-rego/bank-aurea" style="color:#58a6ff">github.com/caua-rego/bank-aurea</a>
-        </p>
-        <p style="margin:6px 0 0 0">
-          <a href="https://github.com/caua-rego/bank-aurea"><img src="https://img.shields.io/badge/Ver%20no%20GitHub-111827?style=for-the-badge&logo=github" alt="Ver no GitHub"></a>
         </p>
       </td>
     </tr>
@@ -135,18 +127,13 @@ Aqui estão tecnologias comuns nos meus projetos. Se quiser, eu detecto automati
           Repositório educativo para aprender CRUDs e lógica de programação.
         </p>
         <p style="margin:0 0 10px 0;color:#cbd5e1">
-          Tech (sugestão): <strong>JavaScript, Express, SQLite / Postgres</strong><br/>
+          Tech (detectado): <strong>Python</strong><br/>
           Link: <a href="https://github.com/caua-rego/system-bank-education" style="color:#58a6ff">github.com/caua-rego/system-bank-education</a>
-        </p>
-        <p style="margin:6px 0 0 0">
-          <a href="https://github.com/caua-rego/system-bank-education"><img src="https://img.shields.io/badge/Ver%20no%20GitHub-111827?style=for-the-badge&logo=github" alt="Ver no GitHub"></a>
         </p>
       </td>
     </tr>
   </table>
 </div>
-
-> Observação: as stacks acima são sugestões baseadas em padrões comuns — posso substituir por stacks exatas se você quiser que eu detecte as linguagens dos repositórios.
 
 ---
 
@@ -155,9 +142,3 @@ Aqui estão tecnologias comuns nos meus projetos. Se quiser, eu detecto automati
   <img src="https://github-readme-stats.vercel.app/api?username=caua-rego&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caua-rego&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
 </p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=caua-rego&theme=gruvbox_dark&row=1&column=6" alt="Trophies" />
-</p>
-
----
