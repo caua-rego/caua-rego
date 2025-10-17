@@ -16,13 +16,12 @@
 ## Sobre
 Sou Cauã Rego — desenvolvedor focado em UX, lógica de negócio robusta e segurança. Gosto de interfaces limpas, código testável e projetos com atenção ao detalhe.
 
-- Local: [Sua cidade, País]  
-- Pronome: [ele/ela/they]  
-- Aberto a: [Emprego / Freelance / Mentoria]
+- Local: Pernambuco 
+- Aberto a: Mentoria
 
 ---
 
-## Tecnologias (detectadas / sugeridas)
+## Tecnologias
 <p align="center">
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-111827?style=flat-square&logo=typescript&logoColor=3178c6"/>
   <img alt="Python" src="https://img.shields.io/badge/-Python-111827?style=flat-square&logo=python&logoColor=3776ab"/>
