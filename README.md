@@ -100,4 +100,35 @@ Valorizo soluções eficientes, design funcional e experiências digitais que un
   </p>
   <p style="color:#cbd5e1;margin:6px 0;">
     Tech stack: <strong>Python</strong><br/>
-    Link: <a hre
+    Link: <a href="https://github.com/caua-rego/system-bank-education" style="color:#58a6ff">github.com/caua-rego/system-bank-education</a>
+  </p>
+  <p style="margin:8px 0;">
+    <img src="https://img.shields.io/badge/Python-3776AB.svg?style=flat-square&logo=python&logoColor=white" alt="python" />
+    <img src="https://img.shields.io/badge/Educacional-%23FFD166.svg?style=flat-square" alt="educational" />
+  </p>
+</div>
+
+</div>
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=caua-rego&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caua-rego&layout=compact&theme=dark&hide_border=true" height="180em"/>
+</p>
+
+---
+
+## 🌌 Estilo e Energia
+
+<p align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGhzejgzYnI2bWozdjJtMDB3dzBvZGt0YjRzYm1oczM3MnRjZHNjbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bJ4TVNYNUympPgcpem/giphy.gif" width="400" alt="code energy" style="border-radius:12px; box-shadow:0 0 20px rgba(0,0,0,0.5);"/>
+</p>
+
+<p align="center">
+  <em>“Elegância é quando o código e o design falam o mínimo e expressam o máximo.”</em>
+</p>
+
+---
