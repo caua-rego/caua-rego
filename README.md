@@ -2,7 +2,7 @@
 
 <p align="center">
   <!-- Hero GIF dark & aesthetic (pode substituir por outro GIF público) -->
-  <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" alt="hero-gif" width="880" style="max-width:100%; border-radius:12px; box-shadow: 0 10px 30px rgba(0,0,0,0.6);" />
+  <img src="[https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExenR6cXhkeWl5MTMzc2lqMmN4eGw1M2l3dmVwMWJpb255NmJ5Mzh1byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ohhwLHhd1HjiHPECk/giphy.gif)" alt="hero-gif" width="880" style="max-width:100%; border-radius:12px; box-shadow: 0 10px 30px rgba(0,0,0,0.6);" />
 </p>
 
 <p align="center">
