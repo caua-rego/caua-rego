@@ -4,26 +4,20 @@
     background: linear-gradient(90deg, #7f00ff, #e100ff, #00d4ff);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
-    background-size: 300%;
-    animation: gradientMove 6s ease infinite;
+    background-size: 100%;
     font-size: 3em;
     font-weight: 800;
-    text-shadow: 0 0 18px rgba(226, 0, 255, 0.4);
+    text-shadow: 0 0 18px rgba(226, 0, 255, 0.28);
+    display: inline-block;
+    padding: 6px 12px;
+    border-radius: 8px;
   ">
     Olá, eu sou Cauã Rego 👋
   </span>
 </h1>
 
-<style>
-@keyframes gradientMove {
-  0% { background-position: 0% 50%; }
-  50% { background-position: 100% 50%; }
-  100% { background-position: 0% 50%; }
-}
-</style>
-
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExenR6cXhkeWl5MTMzc2lqMmN4eGw1M2l3dmVwMWJpb255NmJ5Mzh1byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ohhwLHhd1HjiHPECk/giphy.gif" width="880" style="max-width:100%; border-radius:14px; box-shadow: 0 0 35px rgba(0,0,0,0.5);" alt="hero gif"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWRldDBwN2U0MTVmZjN5ZnNocGJuNHU2c3c0bm85dGQ5Zmg2aGhycSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lp3GUtG2waC88/giphy.gif" width="880" style="max-width:100%; border-radius:14px; box-shadow: 0 0 35px rgba(0,0,0,0.5);" alt="hero gif"/>
 </p>
 
 <p align="center">
@@ -106,35 +100,4 @@ Valorizo soluções eficientes, design funcional e experiências digitais que un
   </p>
   <p style="color:#cbd5e1;margin:6px 0;">
     Tech stack: <strong>Python</strong><br/>
-    Link: <a href="https://github.com/caua-rego/system-bank-education" style="color:#58a6ff">github.com/caua-rego/system-bank-education</a>
-  </p>
-  <p style="margin:8px 0;">
-    <img src="https://img.shields.io/badge/Python-3776AB.svg?style=flat-square&logo=python&logoColor=white" alt="python" />
-    <img src="https://img.shields.io/badge/Educacional-%23FFD166.svg?style=flat-square" alt="educational" />
-  </p>
-</div>
-
-</div>
-
----
-
-## 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=caua-rego&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caua-rego&layout=compact&theme=dark&hide_border=true" height="180em"/>
-</p>
-
----
-
-## 🌌 Estilo e Energia
-
-<p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGhzejgzYnI2bWozdjJtMDB3dzBvZGt0YjRzYm1oczM3MnRjZHNjbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bJ4TVNYNUympPgcpem/giphy.gif" width="400" alt="code energy" style="border-radius:12px; box-shadow:0 0 20px rgba(0,0,0,0.5);"/>
-</p>
-
-<p align="center">
-  <em>“Elegância é quando o código e o design falam o mínimo e expressam o máximo.”</em>
-</p>
-
----
+    Link: <a hre
