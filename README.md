@@ -65,7 +65,7 @@ Valorizo soluções eficientes, design funcional e experiências digitais que un
     Aplicativo de Saúde
   </p>
   <p style="color:#cbd5e1;margin:6px 0;">
-    Tech stack: <strong>TypeScript, React</strong><br/>
+    Tech stack: <strong>TypeScript, React, Python</strong><br/>
     Link: <a href="https://github.com/caua-rego/fluisaude" style="color:#58a6ff">github.com/caua-rego/fluisaude</a>
   </p>
   <p style="margin:8px 0;">
