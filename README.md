@@ -60,18 +60,18 @@ Valorizo soluções eficientes, design funcional e experiências digitais que un
 
 <!-- Projeto 1 -->
 <div style="background:#071017;border-radius:14px;padding:20px;margin:14px;max-width:880px;">
-  <h3 style="color:#e6eef8;margin:0">🔎 Focal App</h3>
+  <h3 style="color:#e6eef8;margin:0">🏥 FluiSaude</h3>
   <p style="color:#9aa4b2;margin:6px 0;">
-    Plataforma focada em experiência do usuário, performance e lógica de negócios refinada.
+    Aplicativo de Saúde
   </p>
   <p style="color:#cbd5e1;margin:6px 0;">
     Tech stack: <strong>TypeScript, React</strong><br/>
-    Link: <a href="https://github.com/caua-rego/focal-app" style="color:#58a6ff">github.com/caua-rego/focal-app</a>
+    Link: <a href="https://github.com/caua-rego/fluisaude" style="color:#58a6ff">github.com/caua-rego/fluisaude</a>
   </p>
   <p style="margin:8px 0;">
     <img src="https://img.shields.io/badge/TypeScript-%231572b6.svg?style=flat-square&logo=typescript&logoColor=white" alt="ts" />
     <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=flat-square&logo=react&logoColor=black" alt="react" />
-    <img src="https://img.shields.io/badge/Status-Ativo-111827.svg?style=flat-square" alt="status" />
+    <img src="https://img.shields.io/badge/Python-3776AB.svg?style=flat-square&logo=python&logoColor=white" alt="python" />
   </p>
 </div>
 
