@@ -16,9 +16,7 @@
   </span>
 </h1>
 
-<p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWRldDBwN2U0MTVmZjN5ZnNocGJuNHU2c3c0bm85dGQ5Zmg2aGhycSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lp3GUtG2waC88/giphy.gif" width="880" style="max-width:100%; border-radius:14px; box-shadow: 0 0 35px rgba(0,0,0,0.5);" alt="hero gif"/>
-</p>
+
 
 <p align="center">
   <a href="https://github.com/caua-rego"><img alt="GitHub followers" src="https://img.shields.io/github/followers/caua-rego?label=Seguir&style=for-the-badge&color=111827&logo=github"></a>
