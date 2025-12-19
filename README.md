@@ -1,4 +1,3 @@
-<!-- Banner inicial -->
 <h1 align="center">
   <span style="
     background: linear-gradient(90deg, #7f00ff, #e100ff, #00d4ff);
@@ -12,97 +11,106 @@
     padding: 6px 12px;
     border-radius: 8px;
   ">
-    Olá, eu sou Cauã Rego 👋
+    Cauã Rego
+  </span>
+  <br>
+  <span style="font-size: 1.2em; color: #9aa4b2; font-weight: 400;">
+    Software Engineer & Architect
   </span>
 </h1>
 
-
-
 <p align="center">
-  <a href="https://github.com/caua-rego"><img alt="GitHub followers" src="https://img.shields.io/github/followers/caua-rego?label=Seguir&style=for-the-badge&color=111827&logo=github"></a>
-  <img alt="Tema" src="https://img.shields.io/badge/Theme-Dark%20Aesthetic-111827?style=for-the-badge">
-  <a href="mailto:seu.email@exemplo.com"><img alt="Contato" src="https://img.shields.io/badge/Contato-✉️-111827?style=for-the-badge"></a>
+  <a href="https://github.com/caua-rego"><img alt="GitHub followers" src="https://img.shields.io/github/followers/caua-rego?label=Connect&style=for-the-badge&color=111827&logo=github"></a>
+  <img alt="Foco" src="https://img.shields.io/badge/Focus-Software%20Architecture-7f00ff?style=for-the-badge">
+  <a href="mailto:seu.email@exemplo.com"><img alt="Contato" src="https://img.shields.io/badge/Email-Business-111827?style=for-the-badge"></a>
 </p>
 
 ---
 
-## 🧭 Sobre
+## 🏛️ Engenharia & Arquitetura
 
-Sou **Cauã Rego**, desenvolvedor fullstack **apaixonado por back-end**, **UX**, **arquitetura de sistemas** e **código limpo**.  
-Valorizo soluções eficientes, design funcional e experiências digitais que unem **estética e performance**.
+Sou **Engenheiro de Software** focado na construção de sistemas robustos, escaláveis e de alta manutenibilidade. Minha abordagem vai além da escrita de código; trata-se de projetar soluções que sobrevivam ao tempo.
 
-💻 Atualmente: Trabalhando em integrações seguras e microsserviços escaláveis.  
-📍 Local: Pernambuco, Brasil  
-🧩 Aberto a: Mentoria, colaboração e desafios técnicos.
+Acredito que **software bem feito** é aquele que combina eficiência técnica com uma arquitetura limpa. Meus princípios fundamentais incluem:
+
+* **Arquitetura de Software:** Design modular, Microsserviços e Monolitos Modulares.
+* **Qualidade de Código:** Aplicação rigorosa de SOLID, DRY e Clean Code.
+* **Performance & Segurança:** Otimização de recursos e blindagem de dados desde a concepção.
+
+💻 **Foco Atual:** Desenvolvimento de soluções backend complexas e arquitetura de sistemas distribuídos.<br>
+📍 **Local:** Pernambuco, Brasil
 
 ---
 
-## ⚙️ Tecnologias & Stack
+## 🛠️ Tech Stack & Ferramentas
 
 <p align="center">
   <img src="https://img.shields.io/badge/-TypeScript-111827?style=flat-square&logo=typescript&logoColor=3178c6"/>
   <img src="https://img.shields.io/badge/-Python-111827?style=flat-square&logo=python&logoColor=3776ab"/>
+  <img src="https://img.shields.io/badge/-C%23-111827?style=flat-square&logo=c-sharp&logoColor=239120"/>
   <img src="https://img.shields.io/badge/-React-111827?style=flat-square&logo=react&logoColor=61dafb"/>
   <img src="https://img.shields.io/badge/-Node.js-111827?style=flat-square&logo=node.js&logoColor=339933"/>
   <img src="https://img.shields.io/badge/-Postgres-111827?style=flat-square&logo=postgresql&logoColor=336791"/>
   <img src="https://img.shields.io/badge/-Docker-111827?style=flat-square&logo=docker&logoColor=2496ed"/>
-  <img src="https://img.shields.io/badge/-HTML-111827?style=flat-square&logo=html5&logoColor=e34f26"/>
-  <img src="https://img.shields.io/badge/-CSS-111827?style=flat-square&logo=css3&logoColor=1572B6"/>
+  <img src="https://img.shields.io/badge/-Architecture-111827?style=flat-square&logo=instructure&logoColor=white"/>
 </p>
 
 ---
 
-## 🚀 Projetos em Destaque
+## 🚀 Portfólio de Engenharia
 
 <div align="center">
 
-<!-- Projeto 1 -->
-<div style="background:#071017;border-radius:14px;padding:20px;margin:14px;max-width:880px;">
+<div style="background:#071017;border-radius:14px;padding:20px;margin:14px;max-width:880px;border: 1px solid #1f2937;">
   <h3 style="color:#e6eef8;margin:0">🏥 FluiSaude</h3>
-  <p style="color:#9aa4b2;margin:6px 0;">
-    Aplicativo de Saúde
+  <p style="color:#9aa4b2;margin:6px 0;font-size:0.95em;">
+    Ecossistema de gestão para clínicas de saúde.
   </p>
-  <p style="color:#cbd5e1;margin:6px 0;">
-    Tech stack: <strong>TypeScript, React, Python</strong><br/>
-    Link: <a href="https://github.com/caua-rego/fluisaude" style="color:#58a6ff">github.com/caua-rego/fluisaude</a>
+  <p style="color:#cbd5e1;margin:10px 0;">
+    Desenvolvido com foco em <strong>UX</strong> e <strong>modularidade</strong>. O sistema utiliza uma arquitetura que separa regras de negócio da interface, garantindo escalabilidade para futuras funcionalidades médicas.
   </p>
   <p style="margin:8px 0;">
-    <img src="https://img.shields.io/badge/TypeScript-%231572b6.svg?style=flat-square&logo=typescript&logoColor=white" alt="ts" />
-    <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=flat-square&logo=react&logoColor=black" alt="react" />
-    <img src="https://img.shields.io/badge/Python-3776AB.svg?style=flat-square&logo=python&logoColor=white" alt="python" />
+    <a href="https://github.com/caua-rego/fluisaude" style="color:#58a6ff;text-decoration:none;font-weight:bold;">Ver Arquitetura →</a>
+  </p>
+  <p style="margin-top:12px;">
+    <img src="https://img.shields.io/badge/TypeScript-Core-blue?style=flat-square" />
+    <img src="https://img.shields.io/badge/Architecture-Modular-purple?style=flat-square" />
+    <img src="https://img.shields.io/badge/React-Frontend-61DAFB?style=flat-square" />
   </p>
 </div>
 
-<!-- Projeto 2 -->
-<div style="background:#071017;border-radius:14px;padding:20px;margin:14px;max-width:880px;">
+<div style="background:#071017;border-radius:14px;padding:20px;margin:14px;max-width:880px;border: 1px solid #1f2937;">
   <h3 style="color:#e6eef8;margin:0">🏦 Bank Áurea</h3>
-  <p style="color:#9aa4b2;margin:6px 0;">
-    Sistema bancário com foco em **segurança**, **transações precisas** e **consistência de dados**.
+  <p style="color:#9aa4b2;margin:6px 0;font-size:0.95em;">
+    Core bancário focado em integridade transacional.
   </p>
-  <p style="color:#cbd5e1;margin:6px 0;">
-    Tech stack: <strong>Python, HTML, CSS</strong><br/>
-    Link: <a href="https://github.com/caua-rego/bank-aurea" style="color:#58a6ff">github.com/caua-rego/bank-aurea</a>
+  <p style="color:#cbd5e1;margin:10px 0;">
+    Este projeto prioriza a <strong>segurança de dados</strong> e a precisão de operações financeiras. Implementação de validações rigorosas e tratamento de concorrência para garantir consistência (ACID).
   </p>
   <p style="margin:8px 0;">
-    <img src="https://img.shields.io/badge/Python-3776AB.svg?style=flat-square&logo=python&logoColor=white" alt="python" />
-    <img src="https://img.shields.io/badge/CSS-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" alt="css" />
-    <img src="https://img.shields.io/badge/Security-High-111827.svg?style=flat-square" alt="security" />
+    <a href="https://github.com/caua-rego/bank-aurea" style="color:#58a6ff;text-decoration:none;font-weight:bold;">Ver Código →</a>
+  </p>
+  <p style="margin-top:12px;">
+    <img src="https://img.shields.io/badge/Python-Backend-3776AB?style=flat-square" />
+    <img src="https://img.shields.io/badge/Security-High-green?style=flat-square" />
+    <img src="https://img.shields.io/badge/Data-Consistency-orange?style=flat-square" />
   </p>
 </div>
 
-<!-- Projeto 3 -->
-<div style="background:#071017;border-radius:14px;padding:20px;margin:14px;max-width:880px;">
+<div style="background:#071017;border-radius:14px;padding:20px;margin:14px;max-width:880px;border: 1px solid #1f2937;">
   <h3 style="color:#e6eef8;margin:0">📚 System Bank Education</h3>
-  <p style="color:#9aa4b2;margin:6px 0;">
-    Repositório educativo voltado a **CRUDs**, **boas práticas** e **aprendizado progressivo**.
+  <p style="color:#9aa4b2;margin:6px 0;font-size:0.95em;">
+    Repositório de referência para Boas Práticas.
   </p>
-  <p style="color:#cbd5e1;margin:6px 0;">
-    Tech stack: <strong>Python</strong><br/>
-    Link: <a href="https://github.com/caua-rego/system-bank-education" style="color:#58a6ff">github.com/caua-rego/system-bank-education</a>
+  <p style="color:#cbd5e1;margin:10px 0;">
+    Projeto desenhado para demonstrar a aplicação de <strong>CRUDs eficientes</strong> e padrões de projeto. Focado em código limpo e documentação para desenvolvedores.
   </p>
   <p style="margin:8px 0;">
-    <img src="https://img.shields.io/badge/Python-3776AB.svg?style=flat-square&logo=python&logoColor=white" alt="python" />
-    <img src="https://img.shields.io/badge/Educacional-%23FFD166.svg?style=flat-square" alt="educational" />
+    <a href="https://github.com/caua-rego/system-bank-education" style="color:#58a6ff;text-decoration:none;font-weight:bold;">Ver Implementação →</a>
+  </p>
+  <p style="margin-top:12px;">
+    <img src="https://img.shields.io/badge/Clean_Code-Strict-success?style=flat-square" />
+    <img src="https://img.shields.io/badge/Pattern-CRUD-blue?style=flat-square" />
   </p>
 </div>
 
@@ -110,23 +118,21 @@ Valorizo soluções eficientes, design funcional e experiências digitais que un
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📊 Métricas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=caua-rego&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caua-rego&layout=compact&theme=dark&hide_border=true" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=caua-rego&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00d4ff&icon_color=7f00ff" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caua-rego&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00d4ff" height="180em"/>
 </p>
 
 ---
 
-## 🌌 Estilo e Energia
-
-<p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGhzejgzYnI2bWozdjJtMDB3dzBvZGt0YjRzYm1oczM3MnRjZHNjbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bJ4TVNYNUympPgcpem/giphy.gif" width="400" alt="code energy" style="border-radius:12px; box-shadow:0 0 20px rgba(0,0,0,0.5);"/>
-</p>
-
-<p align="center">
-  <em>“Elegância é quando o código e o design falam o mínimo e expressam o máximo.”</em>
-</p>
-
----
+<div align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGhzejgzYnI2bWozdjJtMDB3dzBvZGt0YjRzYm1oczM3MnRjZHNjbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bJ4TVNYNUympPgcpem/giphy.gif" width="100%" style="max-width:500px; border-radius:12px; opacity: 0.9;"/>
+  
+  <br><br>
+  
+  <p style="color: #9aa4b2; font-style: italic;">
+    “Arquitetura de software é a arte de adiar decisões até o momento em que elas são estritamente necessárias, mantendo o sistema flexível e robusto.”
+  </p>
+</div>
