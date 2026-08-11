@@ -1,0 +1,166 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320">
+  <title>Cauã Rêgo — Software Architect · iGaming · Gamification</title>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0D1117"/>
+      <stop offset="55%" stop-color="#1A070B"/>
+      <stop offset="100%" stop-color="#2E060C"/>
+    </linearGradient>
+    <radialGradient id="spot" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#8B0000" stop-opacity="0.55"/>
+      <stop offset="60%" stop-color="#8B0000" stop-opacity="0.18"/>
+      <stop offset="100%" stop-color="#8B0000" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="goldtext" gradientUnits="userSpaceOnUse" x1="-500" y1="0" x2="0" y2="0">
+      <stop offset="0%" stop-color="#B8912F"/>
+      <stop offset="40%" stop-color="#E9C767"/>
+      <stop offset="50%" stop-color="#FFF6C9"/>
+      <stop offset="60%" stop-color="#E9C767"/>
+      <stop offset="100%" stop-color="#B8912F"/>
+      <animate attributeName="x1" values="-500;1200" dur="4.5s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="0;1700" dur="4.5s" repeatCount="indefinite"/>
+    </linearGradient>
+    <linearGradient id="baseline" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#D4AF37" stop-opacity="0"/>
+      <stop offset="30%" stop-color="#D4AF37"/>
+      <stop offset="60%" stop-color="#DC143C"/>
+      <stop offset="100%" stop-color="#DC143C" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="hub" cx="35%" cy="30%" r="85%">
+      <stop offset="0%" stop-color="#FFF3C4"/>
+      <stop offset="40%" stop-color="#E9C767"/>
+      <stop offset="75%" stop-color="#B8912F"/>
+      <stop offset="100%" stop-color="#6E5314"/>
+    </radialGradient>
+    <linearGradient id="rim" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#F5D061"/>
+      <stop offset="50%" stop-color="#D4AF37"/>
+      <stop offset="100%" stop-color="#8A6A1C"/>
+    </linearGradient>
+    <radialGradient id="ballg" cx="35%" cy="30%" r="80%">
+      <stop offset="0%" stop-color="#FFFFFF"/>
+      <stop offset="60%" stop-color="#E8E4D8"/>
+      <stop offset="100%" stop-color="#9A9482"/>
+    </radialGradient>
+    <path id="w" d="M0 0 L110 0 A110 110 0 0 1 101.628 42.095 Z" stroke="#D4AF37" stroke-width="1.2"/>
+    <path id="spark" d="M0,-6 L1.6,-1.6 L6,0 L1.6,1.6 L0,6 L-1.6,1.6 L-6,0 L-1.6,-1.6 Z" fill="#FFF3C4"/>
+    <g id="chip">
+      <circle r="20" fill="#DC143C" stroke="#7A0B1E" stroke-width="1.5"/>
+      <circle r="20" fill="none" stroke="#FFF3C4" stroke-width="4" stroke-dasharray="7 8.7"/>
+      <circle r="11" fill="#14060A" stroke="#D4AF37" stroke-width="1.5"/>
+      <text y="4.5" text-anchor="middle" font-family="Georgia, serif" font-weight="bold" font-size="12" fill="#FFD700">♠</text>
+    </g>
+  </defs>
+
+  <!-- fundo -->
+  <rect width="1200" height="320" fill="url(#bg)"/>
+  <ellipse cx="985" cy="160" rx="330" ry="220" fill="url(#spot)"/>
+
+  <!-- raios de luz girando atrás da roleta -->
+  <g opacity="0.35">
+    <g>
+      <animateTransform attributeName="transform" type="rotate" from="0 985 160" to="360 985 160" dur="50s" repeatCount="indefinite"/>
+      <g fill="#FFD700" opacity="0.14">
+        <path d="M985 160 L1385 120 L1385 200 Z"/>
+        <path d="M985 160 L1385 120 L1385 200 Z" transform="rotate(45 985 160)"/>
+        <path d="M985 160 L1385 120 L1385 200 Z" transform="rotate(90 985 160)"/>
+        <path d="M985 160 L1385 120 L1385 200 Z" transform="rotate(135 985 160)"/>
+        <path d="M985 160 L1385 120 L1385 200 Z" transform="rotate(180 985 160)"/>
+        <path d="M985 160 L1385 120 L1385 200 Z" transform="rotate(225 985 160)"/>
+        <path d="M985 160 L1385 120 L1385 200 Z" transform="rotate(270 985 160)"/>
+        <path d="M985 160 L1385 120 L1385 200 Z" transform="rotate(315 985 160)"/>
+      </g>
+    </g>
+  </g>
+
+  <!-- roleta -->
+  <g transform="translate(985 160) scale(0.66)">
+    <circle r="131" fill="none" stroke="#FFD700" stroke-width="6" opacity="0.12">
+      <animate attributeName="opacity" values="0.08;0.3;0.08" dur="3s" repeatCount="indefinite"/>
+    </circle>
+    <circle r="124" fill="none" stroke="url(#rim)" stroke-width="12"/>
+    <circle r="118" fill="#1A0B0E" stroke="#3D060A" stroke-width="2"/>
+    <g fill="#FFD700">
+      <polygon points="0,-129 4.5,-124 0,-119 -4.5,-124"/>
+      <polygon points="0,-129 4.5,-124 0,-119 -4.5,-124" transform="rotate(45)"/>
+      <polygon points="0,-129 4.5,-124 0,-119 -4.5,-124" transform="rotate(90)"/>
+      <polygon points="0,-129 4.5,-124 0,-119 -4.5,-124" transform="rotate(135)"/>
+      <polygon points="0,-129 4.5,-124 0,-119 -4.5,-124" transform="rotate(180)"/>
+      <polygon points="0,-129 4.5,-124 0,-119 -4.5,-124" transform="rotate(225)"/>
+      <polygon points="0,-129 4.5,-124 0,-119 -4.5,-124" transform="rotate(270)"/>
+      <polygon points="0,-129 4.5,-124 0,-119 -4.5,-124" transform="rotate(315)"/>
+    </g>
+    <g>
+      <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="12s" repeatCount="indefinite"/>
+      <use href="#w" fill="#0E7A3D"/>
+      <use href="#w" fill="#CE1126" transform="rotate(22.5)"/>
+      <use href="#w" fill="#141419" transform="rotate(45)"/>
+      <use href="#w" fill="#CE1126" transform="rotate(67.5)"/>
+      <use href="#w" fill="#141419" transform="rotate(90)"/>
+      <use href="#w" fill="#CE1126" transform="rotate(112.5)"/>
+      <use href="#w" fill="#141419" transform="rotate(135)"/>
+      <use href="#w" fill="#CE1126" transform="rotate(157.5)"/>
+      <use href="#w" fill="#141419" transform="rotate(180)"/>
+      <use href="#w" fill="#CE1126" transform="rotate(202.5)"/>
+      <use href="#w" fill="#141419" transform="rotate(225)"/>
+      <use href="#w" fill="#CE1126" transform="rotate(247.5)"/>
+      <use href="#w" fill="#141419" transform="rotate(270)"/>
+      <use href="#w" fill="#CE1126" transform="rotate(292.5)"/>
+      <use href="#w" fill="#141419" transform="rotate(315)"/>
+      <use href="#w" fill="#CE1126" transform="rotate(337.5)"/>
+      <circle r="58" fill="#20141A" stroke="#D4AF37" stroke-width="2.5"/>
+      <circle r="36" fill="url(#hub)" stroke="#8A6A1C" stroke-width="1.5"/>
+      <rect x="-3" y="-50" width="6" height="100" rx="3" fill="#D4AF37" stroke="#8A6A1C" stroke-width="0.8"/>
+      <rect x="-3" y="-50" width="6" height="100" rx="3" fill="#D4AF37" stroke="#8A6A1C" stroke-width="0.8" transform="rotate(45)"/>
+      <rect x="-3" y="-50" width="6" height="100" rx="3" fill="#D4AF37" stroke="#8A6A1C" stroke-width="0.8" transform="rotate(90)"/>
+      <rect x="-3" y="-50" width="6" height="100" rx="3" fill="#D4AF37" stroke="#8A6A1C" stroke-width="0.8" transform="rotate(135)"/>
+      <circle cx="0" cy="-46" r="5.5" fill="#F5D061" stroke="#8A6A1C" stroke-width="0.8"/>
+      <circle cx="32.5" cy="-32.5" r="5.5" fill="#F5D061" stroke="#8A6A1C" stroke-width="0.8"/>
+      <circle cx="46" cy="0" r="5.5" fill="#F5D061" stroke="#8A6A1C" stroke-width="0.8"/>
+      <circle cx="32.5" cy="32.5" r="5.5" fill="#F5D061" stroke="#8A6A1C" stroke-width="0.8"/>
+      <circle cx="0" cy="46" r="5.5" fill="#F5D061" stroke="#8A6A1C" stroke-width="0.8"/>
+      <circle cx="-32.5" cy="32.5" r="5.5" fill="#F5D061" stroke="#8A6A1C" stroke-width="0.8"/>
+      <circle cx="-46" cy="0" r="5.5" fill="#F5D061" stroke="#8A6A1C" stroke-width="0.8"/>
+      <circle cx="-32.5" cy="-32.5" r="5.5" fill="#F5D061" stroke="#8A6A1C" stroke-width="0.8"/>
+      <circle r="9" fill="#FFF0B0" stroke="#8A6A1C" stroke-width="1"/>
+    </g>
+    <g>
+      <animateTransform attributeName="transform" type="rotate" from="360" to="0" dur="3.5s" repeatCount="indefinite"/>
+      <circle cx="0" cy="-92" r="7" fill="url(#ballg)"/>
+    </g>
+  </g>
+
+  <!-- naipes flutuando -->
+  <g font-family="Georgia, serif" font-weight="bold" font-size="26">
+    <text x="640" y="330" fill="#DC143C" opacity="0">♥<animateTransform attributeName="transform" type="translate" from="0 0" to="0 -300" dur="7s" begin="0s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0.55;0.55;0" keyTimes="0;0.15;0.7;1" dur="7s" begin="0s" repeatCount="indefinite"/></text>
+    <text x="700" y="330" fill="#D4AF37" opacity="0">♠<animateTransform attributeName="transform" type="translate" from="0 0" to="0 -300" dur="9s" begin="2s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0.5;0.5;0" keyTimes="0;0.15;0.7;1" dur="9s" begin="2s" repeatCount="indefinite"/></text>
+    <text x="600" y="330" fill="#DC143C" opacity="0">♦<animateTransform attributeName="transform" type="translate" from="0 0" to="0 -300" dur="8s" begin="4s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0.5;0.5;0" keyTimes="0;0.15;0.7;1" dur="8s" begin="4s" repeatCount="indefinite"/></text>
+    <text x="740" y="330" fill="#D4AF37" opacity="0">♣<animateTransform attributeName="transform" type="translate" from="0 0" to="0 -300" dur="10s" begin="1s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0.45;0.45;0" keyTimes="0;0.15;0.7;1" dur="10s" begin="1s" repeatCount="indefinite"/></text>
+  </g>
+
+  <!-- sparkles -->
+  <use href="#spark" transform="translate(120 70)"><animate attributeName="opacity" values="0.1;1;0.1" dur="2.2s" begin="0s" repeatCount="indefinite"/></use>
+  <use href="#spark" transform="translate(540 95) scale(0.8)"><animate attributeName="opacity" values="0.1;0.9;0.1" dur="2.8s" begin="0.7s" repeatCount="indefinite"/></use>
+  <use href="#spark" transform="translate(480 240)"><animate attributeName="opacity" values="0.1;0.8;0.1" dur="3.1s" begin="1.4s" repeatCount="indefinite"/></use>
+  <use href="#spark" transform="translate(70 230) scale(0.7)"><animate attributeName="opacity" values="0.1;0.9;0.1" dur="2.5s" begin="1s" repeatCount="indefinite"/></use>
+  <use href="#spark" transform="translate(820 60) scale(0.9)"><animate attributeName="opacity" values="0.1;1;0.1" dur="2s" begin="0.4s" repeatCount="indefinite"/></use>
+
+  <!-- fichas -->
+  <g transform="translate(560 275)">
+    <use href="#chip"/>
+    <animateTransform attributeName="transform" type="translate" values="560 275;560 268;560 275" dur="3.4s" repeatCount="indefinite"/>
+  </g>
+  <g transform="translate(608 288)">
+    <use href="#chip"/>
+    <animateTransform attributeName="transform" type="translate" values="608 288;608 282;608 288" dur="4.2s" repeatCount="indefinite"/>
+  </g>
+
+  <!-- título -->
+  <text x="80" y="150" font-family="Georgia, 'Times New Roman', serif" font-weight="bold" font-size="78" letter-spacing="4" fill="url(#goldtext)" stroke="#6E5314" stroke-width="1">CAUÃ RÊGO</text>
+  <rect x="82" y="172" width="540" height="3" fill="url(#baseline)" rx="1.5"/>
+  <text x="84" y="210" font-family="Arial, sans-serif" font-size="19" letter-spacing="7" fill="#E8C15A">SOFTWARE ARCHITECT · iGAMING</text>
+  <text x="84" y="240" font-family="Arial, sans-serif" font-size="15" letter-spacing="5" fill="#B08D2F">GAMIFICATION · CRO · DATA · RETENTION</text>
+
+  <!-- borda inferior -->
+  <rect y="314" width="1200" height="6" fill="url(#baseline)"/>
+</svg>

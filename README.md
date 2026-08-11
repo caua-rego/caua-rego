@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0d1117,30:5c0a0f,65:8B0000,100:D4AF37&text=CAU%C3%83%20R%C3%8AGO&fontColor=FFD700&fontSize=66&fontAlignY=36&desc=Software%20Architect%20%E2%80%A2%20iGaming%20%E2%80%A2%20Gamification&descSize=18&descAlignY=56&animation=fadeIn" width="100%"/>
+<img src="assets/banner.svg" width="100%" alt="Cauã Rêgo — Software Architect · iGaming · Gamification"/>
 
 <img src="https://readme-typing-svg.demolab.com/?font=Playfair+Display&weight=600&size=24&duration=3200&pause=1000&color=D4AF37&center=true&vCenter=true&width=720&lines=Especialista+em+Software+%40+F12+do+Brasil;Arquiteto+de+plataformas+iGaming+de+alta+performance;Gamifica%C3%A7%C3%A3o+%E2%80%A2+CRO+%E2%80%A2+Dados+%E2%80%A2+Reten%C3%A7%C3%A3o;S%C3%B3cio+%40+RoyalVipClub;Jogadores+apostam+na+sorte.+Eu+arquiteto+a+casa." alt="typing"/>
 
