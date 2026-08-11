@@ -1,138 +1,134 @@
-<h1 align="center">
-  <span style="
-    background: linear-gradient(90deg, #7f00ff, #e100ff, #00d4ff);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    background-size: 100%;
-    font-size: 3em;
-    font-weight: 800;
-    text-shadow: 0 0 18px rgba(226, 0, 255, 0.28);
-    display: inline-block;
-    padding: 6px 12px;
-    border-radius: 8px;
-  ">
-    Cauã Rego
-  </span>
-  <br>
-  <span style="font-size: 1.2em; color: #9aa4b2; font-weight: 400;">
-    Software Engineer & Architect
-  </span>
-</h1>
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/caua-rego"><img alt="GitHub followers" src="https://img.shields.io/github/followers/caua-rego?label=Connect&style=for-the-badge&color=111827&logo=github"></a>
-  <img alt="Foco" src="https://img.shields.io/badge/Focus-Software%20Architecture-7f00ff?style=for-the-badge">
-  <a href="mailto:seu.email@exemplo.com"><img alt="Contato" src="https://img.shields.io/badge/Email-Business-111827?style=for-the-badge"></a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0d1117,45:2b2005,100:D4AF37&text=CAU%C3%83%20R%C3%8AGO&fontColor=FFD700&fontSize=66&fontAlignY=36&desc=Software%20Architect%20%E2%80%A2%20iGaming%20%E2%80%A2%20Gamification&descSize=18&descAlignY=56&animation=fadeIn" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com/?font=Playfair+Display&weight=600&size=24&duration=3200&pause=1000&color=D4AF37&center=true&vCenter=true&width=720&lines=Especialista+em+Software+%40+F12+do+Brasil;Arquiteto+de+plataformas+iGaming+de+alta+performance;Gamifica%C3%A7%C3%A3o+%E2%80%A2+CRO+%E2%80%A2+Dados+%E2%80%A2+Reten%C3%A7%C3%A3o;S%C3%B3cio+%40+RoyalVipClub;Jogadores+apostam+na+sorte.+Eu+arquiteto+a+casa." alt="typing"/>
+
+<br/><br/>
+
+<a href="https://www.linkedin.com/in/cauasoftware-engineer"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=D4AF37" alt="LinkedIn"/></a>
+<a href="https://site-caua.vercel.app/"><img src="https://img.shields.io/badge/Portf%C3%B3lio-0d1117?style=for-the-badge&logo=vercel&logoColor=D4AF37" alt="Portfólio"/></a>
+<a href="mailto:cauaregoo12@gmail.com"><img src="https://img.shields.io/badge/E--mail-0d1117?style=for-the-badge&logo=gmail&logoColor=D4AF37" alt="E-mail"/></a>
+<img src="https://komarev.com/ghpvc/?username=caua-rego&color=D4AF37&style=for-the-badge&label=HIGH%20ROLLERS" alt="views"/>
+
+</div>
 
 ---
 
-## 🏛️ Engenharia & Arquitetura
+## ♠️ O Arquiteto da Casa
 
-Sou **Engenheiro de Software** focado na construção de sistemas robustos, escaláveis e de alta manutenibilidade. Minha abordagem vai além da escrita de código; trata-se de projetar soluções que sobrevivam ao tempo.
+> *"Eu arquiteto sistemas à frente do seu tempo — onde a tecnologia desaparece, a complexidade se dissolve e as ideias, em silêncio, redesenham o futuro."*
 
-Acredito que **software bem feito** é aquele que combina eficiência técnica com uma arquitetura limpa. Meus princípios fundamentais incluem:
-
-* **Arquitetura de Software:** Design modular, Microsserviços e Monolitos Modulares.
-* **Qualidade de Código:** Aplicação rigorosa de SOLID, DRY e Clean Code.
-* **Performance & Segurança:** Otimização de recursos e blindagem de dados desde a concepção.
-
-💻 **Foco Atual:** Desenvolvimento de soluções backend complexas e arquitetura de sistemas distribuídos.<br>
-📍 **Local:** Pernambuco, Brasil
+* 🎰 **Especialista em Desenvolvimento de Software @ F12 do Brasil** — plataformas de iGaming orientadas a performance, qualidade, UX e conversão
+* 👑 **Sócio @ RoyalVipClub** — rede social gamificada de iGaming
+* 🏛️ **Arquitetura de Software** — monolitos modulares, microsserviços, sistemas distribuídos, SOLID e Clean Code como regra da casa
+* 🎲 Transformo dados em decisão: KPIs, funis, retenção, engajamento e CRO
+* 📍 Recife, Pernambuco — Brasil
 
 ---
 
-## 🛠️ Tech Stack & Ferramentas
+## 🎲 Mesa de Especialidades · Domínio iGaming
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-TypeScript-111827?style=flat-square&logo=typescript&logoColor=3178c6"/>
-  <img src="https://img.shields.io/badge/-Python-111827?style=flat-square&logo=python&logoColor=3776ab"/>
-  <img src="https://img.shields.io/badge/-C%23-111827?style=flat-square&logo=c-sharp&logoColor=239120"/>
-  <img src="https://img.shields.io/badge/-React-111827?style=flat-square&logo=react&logoColor=61dafb"/>
-  <img src="https://img.shields.io/badge/-Node.js-111827?style=flat-square&logo=node.js&logoColor=339933"/>
-  <img src="https://img.shields.io/badge/-Postgres-111827?style=flat-square&logo=postgresql&logoColor=336791"/>
-  <img src="https://img.shields.io/badge/-Docker-111827?style=flat-square&logo=docker&logoColor=2496ed"/>
-  <img src="https://img.shields.io/badge/-Architecture-111827?style=flat-square&logo=instructure&logoColor=white"/>
-</p>
+| 🎯 Área | ♟️ O que entrego |
+|---|---|
+| **Matemática de apostas** | Odds, margem/overround, risco e exposição |
+| **Gamificação & Retenção** | Missões, níveis, recompensas, streaks, economia de pontos |
+| **Dados & KPIs** | GGR · NGR · Turnover · Hold · LTV — funis de conversão e CRO |
+| **CRM & Growth** | Segmentação, campanhas, bônus e cashback orientados a dados |
+| **Pagamentos & Compliance** | PIX, KYC, antifraude, LGPD |
+| **Plataforma** | Multi-tenant, alta concorrência, consistência transacional (wallet ACID) |
 
 ---
 
-## 🚀 Portfólio de Engenharia
+## 🃏 Stack — As Cartas na Manga
 
 <div align="center">
 
-<div style="background:#071017;border-radius:14px;padding:20px;margin:14px;max-width:880px;border: 1px solid #1f2937;">
-  <h3 style="color:#e6eef8;margin:0">🏥 FluiSaude</h3>
-  <p style="color:#9aa4b2;margin:6px 0;font-size:0.95em;">
-    Ecossistema de gestão para clínicas de saúde.
-  </p>
-  <p style="color:#cbd5e1;margin:10px 0;">
-    Desenvolvido com foco em <strong>UX</strong> e <strong>modularidade</strong>. O sistema utiliza uma arquitetura que separa regras de negócio da interface, garantindo escalabilidade para futuras funcionalidades médicas.
-  </p>
-  <p style="margin:8px 0;">
-    <a href="https://github.com/caua-rego/fluisaude" style="color:#58a6ff;text-decoration:none;font-weight:bold;">Ver Arquitetura →</a>
-  </p>
-  <p style="margin-top:12px;">
-    <img src="https://img.shields.io/badge/TypeScript-Core-blue?style=flat-square" />
-    <img src="https://img.shields.io/badge/Architecture-Modular-purple?style=flat-square" />
-    <img src="https://img.shields.io/badge/React-Frontend-61DAFB?style=flat-square" />
-  </p>
-</div>
+**Linguagens**
 
-<div style="background:#071017;border-radius:14px;padding:20px;margin:14px;max-width:880px;border: 1px solid #1f2937;">
-  <h3 style="color:#e6eef8;margin:0">🏦 Bank Áurea</h3>
-  <p style="color:#9aa4b2;margin:6px 0;font-size:0.95em;">
-    Core bancário focado em integridade transacional.
-  </p>
-  <p style="color:#cbd5e1;margin:10px 0;">
-    Este projeto prioriza a <strong>segurança de dados</strong> e a precisão de operações financeiras. Implementação de validações rigorosas e tratamento de concorrência para garantir consistência (ACID).
-  </p>
-  <p style="margin:8px 0;">
-    <a href="https://github.com/caua-rego/bank-aurea" style="color:#58a6ff;text-decoration:none;font-weight:bold;">Ver Código →</a>
-  </p>
-  <p style="margin-top:12px;">
-    <img src="https://img.shields.io/badge/Python-Backend-3776AB?style=flat-square" />
-    <img src="https://img.shields.io/badge/Security-High-green?style=flat-square" />
-    <img src="https://img.shields.io/badge/Data-Consistency-orange?style=flat-square" />
-  </p>
-</div>
+<img src="https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=D4AF37"/> <img src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=D4AF37"/> <img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=D4AF37"/> <img src="https://img.shields.io/badge/C%23-0d1117?style=for-the-badge&logoColor=D4AF37"/>
 
-<div style="background:#071017;border-radius:14px;padding:20px;margin:14px;max-width:880px;border: 1px solid #1f2937;">
-  <h3 style="color:#e6eef8;margin:0">📚 System Bank Education</h3>
-  <p style="color:#9aa4b2;margin:6px 0;font-size:0.95em;">
-    Repositório de referência para Boas Práticas.
-  </p>
-  <p style="color:#cbd5e1;margin:10px 0;">
-    Projeto desenhado para demonstrar a aplicação de <strong>CRUDs eficientes</strong> e padrões de projeto. Focado em código limpo e documentação para desenvolvedores.
-  </p>
-  <p style="margin:8px 0;">
-    <a href="https://github.com/caua-rego/system-bank-education" style="color:#58a6ff;text-decoration:none;font-weight:bold;">Ver Implementação →</a>
-  </p>
-  <p style="margin-top:12px;">
-    <img src="https://img.shields.io/badge/Clean_Code-Strict-success?style=flat-square" />
-    <img src="https://img.shields.io/badge/Pattern-CRUD-blue?style=flat-square" />
-  </p>
-</div>
+**Frontend & Mobile**
+
+<img src="https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=D4AF37"/> <img src="https://img.shields.io/badge/.NET%20MAUI-0d1117?style=for-the-badge&logo=dotnet&logoColor=D4AF37"/>
+
+**Backend, Dados & Infra**
+
+<img src="https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=D4AF37"/> <img src="https://img.shields.io/badge/.NET-0d1117?style=for-the-badge&logo=dotnet&logoColor=D4AF37"/> <img src="https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=D4AF37"/> <img src="https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=D4AF37"/>
 
 </div>
 
 ---
 
-## 📊 Métricas
+## 👑 Trajetória — Mão Atual & Histórico
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=caua-rego&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00d4ff&icon_color=7f00ff" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caua-rego&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00d4ff" height="180em"/>
-</p>
+| | Casa | Cargo | Período |
+|---|---|---|---|
+| ♠️ | **F12 do Brasil** | Especialista em Desenvolvimento de Software — iGaming | 2026 → atual |
+| ♥️ | **RoyalVipClub** | Sócio — rede social gamificada de iGaming | atual |
+| ♦️ | **Luva Bet** | Desenvolvedor Full Stack | 2026 |
+| ♣️ | **Operah** | Co-founder & CTO | 2026 |
+| 🃏 | **Daus** | Software Engineer | 2025 → 2026 |
+| 🎴 | **Freelancer** | Developer | 2019 → 2025 |
+
+---
+
+## 💎 Projetos de Alto Nível
+
+<div align="center">
+
+### ♠️ ATLAS — a aposta de maior valor da mesa
+
+<a href="https://github.com/caua-rego/ATLAS"><img src="https://github-readme-stats.vercel.app/api/pin/?username=caua-rego&repo=ATLAS&bg_color=0d1117&title_color=FFD700&icon_color=D4AF37&text_color=9aa4b2&border_color=D4AF37" alt="ATLAS"/></a>
+
+<sub>⚙️ Runtime **C++23** com latência de cauda previsível sob contenção — fibers com context switch em assembly, scheduler **lock-free work-stealing** e alocador **NUMA-aware**. Scheduling **P99.9 29× menor** e alocação **P99 47× menor** que threads do SO.</sub>
+
+<br/><br/>
+
+<a href="https://github.com/caua-rego/aura-ai"><img src="https://github-readme-stats.vercel.app/api/pin/?username=caua-rego&repo=aura-ai&bg_color=0d1117&title_color=FFD700&icon_color=D4AF37&text_color=9aa4b2&border_color=D4AF37" alt="Aura Copilot"/></a>
+<a href="https://github.com/caua-rego/bank-aurea"><img src="https://github-readme-stats.vercel.app/api/pin/?username=caua-rego&repo=bank-aurea&bg_color=0d1117&title_color=FFD700&icon_color=D4AF37&text_color=9aa4b2&border_color=D4AF37" alt="Bank Áurea"/></a>
+
+<a href="https://github.com/caua-rego/fluisaude"><img src="https://github-readme-stats.vercel.app/api/pin/?username=caua-rego&repo=fluisaude&bg_color=0d1117&title_color=FFD700&icon_color=D4AF37&text_color=9aa4b2&border_color=D4AF37" alt="FluiSaúde"/></a>
+
+<sub>🤖 **Aura Copilot** — assistente de código com IA · Python, React 19, TypeScript e Rust (Tauri), base para pesquisa científica.</sub><br/>
+<sub>🏦 **Bank Áurea** — plataforma bancária full-stack em camadas: autenticação, transferências e rate limiting — o rigor transacional de uma wallet de apostas.</sub><br/>
+<sub>🏥 **FluiSaúde** — sistema de gestão para unidades de saúde, projeto vencedor de squad.</sub>
+
+</div>
+
+---
+
+## 🏆 Sala de Troféus
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=caua-rego&theme=onestar&no-frame=true&no-bg=true&column=7&margin-w=8" alt="trophies"/>
+
+</div>
+
+---
+
+## 📊 Estatísticas da Banca
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=caua-rego&show_icons=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=FFD700&icon_color=D4AF37&text_color=c9d1d9&border_color=D4AF37&custom_title=Estat%C3%ADsticas%20da%20Banca"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caua-rego&layout=compact&bg_color=0d1117&title_color=FFD700&text_color=c9d1d9&border_color=D4AF37&custom_title=Fichas%20por%20Linguagem"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=caua-rego&background=0d1117&border=D4AF37&stroke=D4AF37&ring=FFD700&fire=FF6B00&currStreakNum=FFD700&sideNums=D4AF37&currStreakLabel=FFD700&sideLabels=c9d1d9&dates=9aa4b2&locale=pt_BR" alt="streak"/>
+
+</div>
 
 ---
 
 <div align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGhzejgzYnI2bWozdjJtMDB3dzBvZGt0YjRzYm1oczM3MnRjZHNjbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bJ4TVNYNUympPgcpem/giphy.gif" width="100%" style="max-width:500px; border-radius:12px; opacity: 0.9;"/>
-  
-  <br><br>
-  
-  <p style="color: #9aa4b2; font-style: italic;">
-    “Arquitetura de software é a arte de adiar decisões até o momento em que elas são estritamente necessárias, mantendo o sistema flexível e robusto.”
-  </p>
+
+### ♠️ ♥️ ♦️ ♣️
+
+> ***"Jogadores apostam na sorte. Eu arquiteto a casa."***
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:D4AF37,55:2b2005,100:0d1117&section=footer" width="100%"/>
+
 </div>
