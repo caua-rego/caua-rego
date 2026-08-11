@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="280" height="280" viewBox="-140 -140 280 280">
+  <title>Roleta</title>
+  <defs>
+    <radialGradient id="hub" cx="35%" cy="30%" r="85%">
+      <stop offset="0%" stop-color="#FFF3C4"/>
+      <stop offset="40%" stop-color="#E9C767"/>
+      <stop offset="75%" stop-color="#B8912F"/>
+      <stop offset="100%" stop-color="#6E5314"/>
+    </radialGradient>
+    <linearGradient id="rim" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#F5D061"/>
+      <stop offset="50%" stop-color="#D4AF37"/>
+      <stop offset="100%" stop-color="#8A6A1C"/>
+    </linearGradient>
+    <radialGradient id="ballg" cx="35%" cy="30%" r="80%">
+      <stop offset="0%" stop-color="#FFFFFF"/>
+      <stop offset="60%" stop-color="#E8E4D8"/>
+      <stop offset="100%" stop-color="#9A9482"/>
+    </radialGradient>
+    <path id="w" d="M0 0 L110 0 A110 110 0 0 1 101.628 42.095 Z" stroke="#D4AF37" stroke-width="1.2"/>
+  </defs>
+
+  <!-- brilho externo pulsante -->
+  <circle r="131" fill="none" stroke="#FFD700" stroke-width="6" opacity="0.12">
+    <animate attributeName="opacity" values="0.08;0.3;0.08" dur="3s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- aro dourado e calha -->
+  <circle r="124" fill="none" stroke="url(#rim)" stroke-width="12"/>
+  <circle r="118" fill="#1A0B0E" stroke="#3D060A" stroke-width="2"/>
+
+  <!-- diamantes fixos do aro -->
+  <g fill="#FFD700">
+    <polygon points="0,-129 4.5,-124 0,-119 -4.5,-124"/>
+    <polygon points="0,-129 4.5,-124 0,-119 -4.5,-124" transform="rotate(45)"/>
+    <polygon points="0,-129 4.5,-124 0,-119 -4.5,-124" transform="rotate(90)"/>
+    <polygon points="0,-129 4.5,-124 0,-119 -4.5,-124" transform="rotate(135)"/>
+    <polygon points="0,-129 4.5,-124 0,-119 -4.5,-124" transform="rotate(180)"/>
+    <polygon points="0,-129 4.5,-124 0,-119 -4.5,-124" transform="rotate(225)"/>
+    <polygon points="0,-129 4.5,-124 0,-119 -4.5,-124" transform="rotate(270)"/>
+    <polygon points="0,-129 4.5,-124 0,-119 -4.5,-124" transform="rotate(315)"/>
+  </g>
+
+  <!-- roda girando -->
+  <g>
+    <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="12s" repeatCount="indefinite"/>
+    <use href="#w" fill="#0E7A3D"/>
+    <use href="#w" fill="#CE1126" transform="rotate(22.5)"/>
+    <use href="#w" fill="#141419" transform="rotate(45)"/>
+    <use href="#w" fill="#CE1126" transform="rotate(67.5)"/>
+    <use href="#w" fill="#141419" transform="rotate(90)"/>
+    <use href="#w" fill="#CE1126" transform="rotate(112.5)"/>
+    <use href="#w" fill="#141419" transform="rotate(135)"/>
+    <use href="#w" fill="#CE1126" transform="rotate(157.5)"/>
+    <use href="#w" fill="#141419" transform="rotate(180)"/>
+    <use href="#w" fill="#CE1126" transform="rotate(202.5)"/>
+    <use href="#w" fill="#141419" transform="rotate(225)"/>
+    <use href="#w" fill="#CE1126" transform="rotate(247.5)"/>
+    <use href="#w" fill="#141419" transform="rotate(270)"/>
+    <use href="#w" fill="#CE1126" transform="rotate(292.5)"/>
+    <use href="#w" fill="#141419" transform="rotate(315)"/>
+    <use href="#w" fill="#CE1126" transform="rotate(337.5)"/>
+
+    <!-- anel interno -->
+    <circle r="58" fill="#20141A" stroke="#D4AF37" stroke-width="2.5"/>
+
+    <!-- torre central -->
+    <circle r="36" fill="url(#hub)" stroke="#8A6A1C" stroke-width="1.5"/>
+    <rect x="-3" y="-50" width="6" height="100" rx="3" fill="#D4AF37" stroke="#8A6A1C" stroke-width="0.8"/>
+    <rect x="-3" y="-50" width="6" height="100" rx="3" fill="#D4AF37" stroke="#8A6A1C" stroke-width="0.8" transform="rotate(45)"/>
+    <rect x="-3" y="-50" width="6" height="100" rx="3" fill="#D4AF37" stroke="#8A6A1C" stroke-width="0.8" transform="rotate(90)"/>
+    <rect x="-3" y="-50" width="6" height="100" rx="3" fill="#D4AF37" stroke="#8A6A1C" stroke-width="0.8" transform="rotate(135)"/>
+    <circle cx="0" cy="-46" r="5.5" fill="#F5D061" stroke="#8A6A1C" stroke-width="0.8"/>
+    <circle cx="32.5" cy="-32.5" r="5.5" fill="#F5D061" stroke="#8A6A1C" stroke-width="0.8"/>
+    <circle cx="46" cy="0" r="5.5" fill="#F5D061" stroke="#8A6A1C" stroke-width="0.8"/>
+    <circle cx="32.5" cy="32.5" r="5.5" fill="#F5D061" stroke="#8A6A1C" stroke-width="0.8"/>
+    <circle cx="0" cy="46" r="5.5" fill="#F5D061" stroke="#8A6A1C" stroke-width="0.8"/>
+    <circle cx="-32.5" cy="32.5" r="5.5" fill="#F5D061" stroke="#8A6A1C" stroke-width="0.8"/>
+    <circle cx="-46" cy="0" r="5.5" fill="#F5D061" stroke="#8A6A1C" stroke-width="0.8"/>
+    <circle cx="-32.5" cy="-32.5" r="5.5" fill="#F5D061" stroke="#8A6A1C" stroke-width="0.8"/>
+    <circle r="9" fill="#FFF0B0" stroke="#8A6A1C" stroke-width="1"/>
+  </g>
+
+  <!-- bolinha em sentido contrário -->
+  <g>
+    <animateTransform attributeName="transform" type="rotate" from="360" to="0" dur="3.5s" repeatCount="indefinite"/>
+    <circle cx="0" cy="-92" r="7" fill="url(#ballg)"/>
+  </g>
+</svg>

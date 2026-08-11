@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0d1117,45:2b2005,100:D4AF37&text=CAU%C3%83%20R%C3%8AGO&fontColor=FFD700&fontSize=66&fontAlignY=36&desc=Software%20Architect%20%E2%80%A2%20iGaming%20%E2%80%A2%20Gamification&descSize=18&descAlignY=56&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0d1117,30:5c0a0f,65:8B0000,100:D4AF37&text=CAU%C3%83%20R%C3%8AGO&fontColor=FFD700&fontSize=66&fontAlignY=36&desc=Software%20Architect%20%E2%80%A2%20iGaming%20%E2%80%A2%20Gamification&descSize=18&descAlignY=56&animation=fadeIn" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com/?font=Playfair+Display&weight=600&size=24&duration=3200&pause=1000&color=D4AF37&center=true&vCenter=true&width=720&lines=Especialista+em+Software+%40+F12+do+Brasil;Arquiteto+de+plataformas+iGaming+de+alta+performance;Gamifica%C3%A7%C3%A3o+%E2%80%A2+CRO+%E2%80%A2+Dados+%E2%80%A2+Reten%C3%A7%C3%A3o;S%C3%B3cio+%40+RoyalVipClub;Jogadores+apostam+na+sorte.+Eu+arquiteto+a+casa." alt="typing"/>
 
@@ -8,8 +8,8 @@
 
 <a href="https://www.linkedin.com/in/cauasoftware-engineer"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=D4AF37" alt="LinkedIn"/></a>
 <a href="https://site-caua.vercel.app/"><img src="https://img.shields.io/badge/Portf%C3%B3lio-0d1117?style=for-the-badge&logo=vercel&logoColor=D4AF37" alt="Portfólio"/></a>
-<a href="mailto:cauaregoo12@gmail.com"><img src="https://img.shields.io/badge/E--mail-0d1117?style=for-the-badge&logo=gmail&logoColor=D4AF37" alt="E-mail"/></a>
-<img src="https://komarev.com/ghpvc/?username=caua-rego&color=D4AF37&style=for-the-badge&label=HIGH%20ROLLERS" alt="views"/>
+<a href="mailto:cauaregoo12@gmail.com"><img src="https://img.shields.io/badge/E--mail-0d1117?style=for-the-badge&logo=gmail&logoColor=DC143C" alt="E-mail"/></a>
+<img src="https://komarev.com/ghpvc/?username=caua-rego&color=DC143C&style=for-the-badge&label=HIGH%20ROLLERS" alt="views"/>
 
 </div>
 
@@ -28,6 +28,14 @@
 ---
 
 ## 🎲 Mesa de Especialidades · Domínio iGaming
+
+<div align="center">
+
+<img src="assets/roulette.svg" width="230" alt="Roleta girando"/>
+
+<sub>🎡 *A roda gira. A margem é da casa.*</sub>
+
+</div>
 
 | 🎯 Área | ♟️ O que entrego |
 |---|---|
@@ -79,16 +87,16 @@
 
 ### ♠️ ATLAS — a aposta de maior valor da mesa
 
-<a href="https://github.com/caua-rego/ATLAS"><img src="https://github-readme-stats.vercel.app/api/pin/?username=caua-rego&repo=ATLAS&bg_color=0d1117&title_color=FFD700&icon_color=D4AF37&text_color=9aa4b2&border_color=D4AF37" alt="ATLAS"/></a>
+<a href="https://github.com/caua-rego/ATLAS"><img src="https://github-readme-stats.vercel.app/api/pin/?username=caua-rego&repo=ATLAS&bg_color=0d1117&title_color=FFD700&icon_color=DC143C&text_color=9aa4b2&border_color=D4AF37" alt="ATLAS"/></a>
 
 <sub>⚙️ Runtime **C++23** com latência de cauda previsível sob contenção — fibers com context switch em assembly, scheduler **lock-free work-stealing** e alocador **NUMA-aware**. Scheduling **P99.9 29× menor** e alocação **P99 47× menor** que threads do SO.</sub>
 
 <br/><br/>
 
-<a href="https://github.com/caua-rego/aura-ai"><img src="https://github-readme-stats.vercel.app/api/pin/?username=caua-rego&repo=aura-ai&bg_color=0d1117&title_color=FFD700&icon_color=D4AF37&text_color=9aa4b2&border_color=D4AF37" alt="Aura Copilot"/></a>
-<a href="https://github.com/caua-rego/bank-aurea"><img src="https://github-readme-stats.vercel.app/api/pin/?username=caua-rego&repo=bank-aurea&bg_color=0d1117&title_color=FFD700&icon_color=D4AF37&text_color=9aa4b2&border_color=D4AF37" alt="Bank Áurea"/></a>
+<a href="https://github.com/caua-rego/aura-ai"><img src="https://github-readme-stats.vercel.app/api/pin/?username=caua-rego&repo=aura-ai&bg_color=0d1117&title_color=FFD700&icon_color=DC143C&text_color=9aa4b2&border_color=D4AF37" alt="Aura Copilot"/></a>
+<a href="https://github.com/caua-rego/bank-aurea"><img src="https://github-readme-stats.vercel.app/api/pin/?username=caua-rego&repo=bank-aurea&bg_color=0d1117&title_color=FFD700&icon_color=DC143C&text_color=9aa4b2&border_color=D4AF37" alt="Bank Áurea"/></a>
 
-<a href="https://github.com/caua-rego/fluisaude"><img src="https://github-readme-stats.vercel.app/api/pin/?username=caua-rego&repo=fluisaude&bg_color=0d1117&title_color=FFD700&icon_color=D4AF37&text_color=9aa4b2&border_color=D4AF37" alt="FluiSaúde"/></a>
+<a href="https://github.com/caua-rego/fluisaude"><img src="https://github-readme-stats.vercel.app/api/pin/?username=caua-rego&repo=fluisaude&bg_color=0d1117&title_color=FFD700&icon_color=DC143C&text_color=9aa4b2&border_color=D4AF37" alt="FluiSaúde"/></a>
 
 <sub>🤖 **Aura Copilot** — assistente de código com IA · Python, React 19, TypeScript e Rust (Tauri), base para pesquisa científica.</sub><br/>
 <sub>🏦 **Bank Áurea** — plataforma bancária full-stack em camadas: autenticação, transferências e rate limiting — o rigor transacional de uma wallet de apostas.</sub><br/>
@@ -112,12 +120,16 @@
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=caua-rego&show_icons=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=FFD700&icon_color=D4AF37&text_color=c9d1d9&border_color=D4AF37&custom_title=Estat%C3%ADsticas%20da%20Banca"/>
+<img src="assets/slots.svg" width="480" alt="Caça-níquel girando"/>
+
+<br/><br/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=caua-rego&show_icons=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=FFD700&icon_color=DC143C&text_color=c9d1d9&border_color=D4AF37&custom_title=Estat%C3%ADsticas%20da%20Banca"/>
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caua-rego&layout=compact&bg_color=0d1117&title_color=FFD700&text_color=c9d1d9&border_color=D4AF37&custom_title=Fichas%20por%20Linguagem"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=caua-rego&background=0d1117&border=D4AF37&stroke=D4AF37&ring=FFD700&fire=FF6B00&currStreakNum=FFD700&sideNums=D4AF37&currStreakLabel=FFD700&sideLabels=c9d1d9&dates=9aa4b2&locale=pt_BR" alt="streak"/>
+<img src="https://streak-stats.demolab.com?user=caua-rego&background=0d1117&border=D4AF37&stroke=D4AF37&ring=FFD700&fire=DC143C&currStreakNum=FFD700&sideNums=D4AF37&currStreakLabel=FFD700&sideLabels=c9d1d9&dates=9aa4b2&locale=pt_BR" alt="streak"/>
 
 </div>
 
@@ -129,6 +141,6 @@
 
 > ***"Jogadores apostam na sorte. Eu arquiteto a casa."***
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:D4AF37,55:2b2005,100:0d1117&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:D4AF37,40:8B0000,75:3d060a,100:0d1117&section=footer" width="100%"/>
 
 </div>
