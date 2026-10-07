@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 470" width="900" height="470" role="img" aria-label="Fachada: como eu estruturo um sistema">
+  <defs>
+    <linearGradient id="p" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#f6ecd6"/><stop offset="1" stop-color="#e6d2a8"/>
+    </linearGradient>
+    <linearGradient id="col" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#d9c194"/><stop offset=".45" stop-color="#f3e6c9"/><stop offset="1" stop-color="#c8aa74"/>
+    </linearGradient>
+    <style>
+      .s{font-family:'Cormorant Garamond',Garamond,Georgia,'Times New Roman',serif}
+      .l{stroke:#5a3a1c;stroke-width:1.4;fill:none}
+      .rise{opacity:0;animation:rise .9s ease-out forwards}
+      @keyframes rise{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}}
+    </style>
+  </defs>
+  <rect width="900" height="470" rx="6" fill="url(#p)"/>
+  <rect x="8" y="8" width="884" height="454" rx="4" fill="none" stroke="#b8893b" stroke-opacity=".6"/>
+
+  <!-- pediment -->
+  <g class="rise" style="animation-delay:.9s">
+    <path d="M110 128 L450 30 L790 128 Z" fill="#efdfbd" class="l"/>
+    <path d="M150 120 L450 44 L750 120" class="l" stroke-width=".8" stroke-opacity=".6"/>
+    <text x="450" y="98" text-anchor="middle" class="s" font-size="22" font-weight="600" fill="#2b1d0e" letter-spacing="3">PRODUTO · RESULTADO</text>
+    <text x="450" y="117" text-anchor="middle" class="s" font-size="13" font-style="italic" fill="#7a5230">o que sobra no fim do funil — NGR, retenção, LTV</text>
+  </g>
+
+  <!-- entablature -->
+  <g class="rise" style="animation-delay:.7s">
+    <rect x="100" y="128" width="700" height="40" fill="#e9d6ae" class="l"/>
+    <text x="450" y="154" text-anchor="middle" class="s" font-size="17" letter-spacing="8" fill="#1f3a6b">EVENTOS · A FONTE DA VERDADE</text>
+  </g>
+
+  <!-- columns -->
+  <g class="s">
+    <g class="rise" style="animation-delay:.1s">
+      <rect x="138" y="176" width="64" height="12" fill="#e2cb9c" class="l"/>
+      <rect x="146" y="188" width="48" height="190" fill="url(#col)" class="l"/>
+      <text transform="translate(176 283) rotate(-90)" text-anchor="middle" font-size="15" letter-spacing="3" fill="#2b1d0e">IDEMPOTÊNCIA</text>
+      <rect x="138" y="378" width="64" height="12" fill="#e2cb9c" class="l"/>
+    </g>
+    <g class="rise" style="animation-delay:.2s">
+      <rect x="298" y="176" width="64" height="12" fill="#e2cb9c" class="l"/>
+      <rect x="306" y="188" width="48" height="190" fill="url(#col)" class="l"/>
+      <text transform="translate(336 283) rotate(-90)" text-anchor="middle" font-size="15" letter-spacing="3" fill="#2b1d0e">LEDGER</text>
+      <rect x="298" y="378" width="64" height="12" fill="#e2cb9c" class="l"/>
+    </g>
+    <g class="rise" style="animation-delay:.3s">
+      <rect x="538" y="176" width="64" height="12" fill="#e2cb9c" class="l"/>
+      <rect x="546" y="188" width="48" height="190" fill="url(#col)" class="l"/>
+      <text transform="translate(576 283) rotate(-90)" text-anchor="middle" font-size="14" letter-spacing="2" fill="#2b1d0e">OBSERVABILIDADE</text>
+      <rect x="538" y="378" width="64" height="12" fill="#e2cb9c" class="l"/>
+    </g>
+    <g class="rise" style="animation-delay:.4s">
+      <rect x="698" y="176" width="64" height="12" fill="#e2cb9c" class="l"/>
+      <rect x="706" y="188" width="48" height="190" fill="url(#col)" class="l"/>
+      <text transform="translate(736 283) rotate(-90)" text-anchor="middle" font-size="15" letter-spacing="3" fill="#2b1d0e">COMPLIANCE</text>
+      <rect x="698" y="378" width="64" height="12" fill="#e2cb9c" class="l"/>
+    </g>
+    <!-- doorway -->
+    <g class="rise" style="animation-delay:.5s">
+      <path d="M400 390 V250 A50 50 0 0 1 500 250 V390" fill="#2b1d0e" fill-opacity=".08" class="l"/>
+      <text x="450" y="300" text-anchor="middle" font-size="14" font-style="italic" fill="#7a5230">regra em</text>
+      <text x="450" y="318" text-anchor="middle" font-size="14" font-style="italic" fill="#7a5230">configuração,</text>
+      <text x="450" y="336" text-anchor="middle" font-size="14" font-style="italic" fill="#7a5230">não em if</text>
+    </g>
+  </g>
+
+  <!-- stylobate -->
+  <g class="rise">
+    <rect x="90" y="390" width="720" height="18" fill="#dcc08c" class="l"/>
+    <rect x="70" y="408" width="760" height="18" fill="#d2b37b" class="l"/>
+    <text x="450" y="403" text-anchor="middle" class="s" font-size="12" letter-spacing="4" fill="#2b1d0e">CLOUD · CUSTO POR USUÁRIO ATIVO · LATÊNCIA REGIONAL</text>
+    <text x="450" y="421" text-anchor="middle" class="s" font-size="12" letter-spacing="4" fill="#2b1d0e">C# · .NET · TYPESCRIPT · C++ · SQL · AZURE</text>
+  </g>
+  <text x="450" y="450" text-anchor="middle" class="s" font-size="13" font-style="italic" fill="#7a5230">fig. II — sem as colunas, o frontão é só enfeite</text>
+</svg>
