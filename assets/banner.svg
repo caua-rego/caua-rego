@@ -11,8 +11,8 @@
     <clipPath id="frame"><rect x="16" y="16" width="1168" height="328"/></clipPath>
     <style>
       .ink{fill:none;stroke:#5a3a1c;stroke-linecap:round}
-      .draw{stroke-dasharray:2400;stroke-dashoffset:2400;animation:draw 6s ease-out .3s forwards}
-      .fade{opacity:0;animation:fade 1.6s ease-out forwards}
+      .draw{}
+      .fade{}
       .rot{transform-origin:900px 180px;animation:rot 90s linear infinite}
       @keyframes draw{to{stroke-dashoffset:0}}
       @keyframes fade{to{opacity:1}}
