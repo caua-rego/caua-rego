@@ -9,7 +9,7 @@
     <style>
       .s{font-family:'Cormorant Garamond',Garamond,Georgia,'Times New Roman',serif}
       .l{stroke:#5a3a1c;stroke-width:1.4;fill:none}
-      .rise{opacity:0;animation:rise .9s ease-out forwards}
+      .rise{}
       @keyframes rise{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}}
     </style>
   </defs>
