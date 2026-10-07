@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.svg" width="100%" alt="Cauã Rêgo — Software Architect · Sistemas distribuídos · Event-driven · iGaming"/>
+<img src="assets/banner.svg?v=2" width="100%" alt="Cauã Rêgo — Software Architect · Sistemas distribuídos · Event-driven · iGaming"/>
 
 <img src="https://readme-typing-svg.demolab.com/?font=Cormorant+Garamond&weight=600&size=26&duration=3400&pause=1100&color=A3341F&center=true&vCenter=true&width=760&lines=Software+Architect;Sistemas+distribu%C3%ADdos+%C2%B7+Event-driven+%C2%B7+Performance;S%C3%B3cio+%26+Tech+Lead+%40+RVC;Co-founder+%26+CTO+%40+Operah;Autor+do+ATLAS+%E2%80%94+runtime+C%2B%2B23+escrito+do+zero" alt="typing"/>
 
@@ -41,7 +41,7 @@ Vitrúvio dizia que toda obra precisa de três virtudes. Eu traduzo assim:
 | ✨ | ***Venustas*** — beleza | Gamificação não é enfeite em cima do produto: é a estrutura que decide o que a pessoa faz primeiro. |
 
 <div align="center">
-<img src="assets/facade.svg" width="88%" alt="Fachada: produto sustentado por eventos, idempotência, ledger, observabilidade e compliance"/>
+<img src="assets/facade.svg?v=2" width="88%" alt="Fachada: produto sustentado por eventos, idempotência, ledger, observabilidade e compliance"/>
 </div>
 
 **Cânones da casa**
